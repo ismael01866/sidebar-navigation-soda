@@ -1,6 +1,7 @@
 ## Demo
 
 https://ismael01866.github.io/sidebar-navigation-soda/
+
 ![screenshot](https://user-images.githubusercontent.com/145450/175342809-d93b95f4-42f5-4c5c-92ec-98c8cf8d8f12.png)
 
 
